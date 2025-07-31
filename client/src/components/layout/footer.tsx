@@ -31,9 +31,24 @@ export default function Footer() {
   ];
 
   const socialLinks = [
-    { icon: Instagram, href: "#", label: "Instagram", color: "bg-gradient-to-br from-pink-500 via-yellow-500 to-purple-600" },
-    { icon: Facebook, href: "#", label: "Facebook", color: "bg-blue-600" },
-    { icon: Mail, href: "mailto:kirann@lendcity.ca", label: "Email", color: "bg-green-600" }
+    { 
+      icon: Instagram, 
+      href: "https://www.instagram.com/kirann_sharmaa_mortgages/", 
+      label: "Instagram", 
+      color: "bg-gradient-to-br from-pink-500 via-yellow-500 to-purple-600" 
+    },
+    { 
+      icon: Facebook, 
+      href: "https://www.facebook.com/people/Mortgage-by-Kirann-Sharmaa/61558009440813/?_rdr", 
+      label: "Facebook", 
+      color: "bg-blue-600" 
+    },
+    { 
+      icon: Mail, 
+      href: "mailto:kirann@lendcity.ca", 
+      label: "Email", 
+      color: "bg-green-600" 
+    }
   ];
 
   return (
