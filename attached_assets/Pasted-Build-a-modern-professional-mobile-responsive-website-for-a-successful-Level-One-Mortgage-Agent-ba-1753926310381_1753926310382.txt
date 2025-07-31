@@ -1,0 +1,25 @@
+Build a modern, professional, mobile-responsive website for a successful Level One Mortgage Agent based in Windsor, Ontario, named [Your Mom's Full Name]. She works with LendCity Mortgages and has successfully closed multiple real estate deals with high client satisfaction. The website should build trust, showcase her expertise, and include clear CTAs for potential clients.
+
+🏗️ Tech stack: Use Next.js with TypeScript for the frontend, Tailwind CSS for styling, and add Framer Motion for subtle animations and smooth transitions. Host-ready for Vercel or Replit.
+
+📄 Pages/Sections to include:
+1. **Home Page** – Eye-catching header with a professional photo (placeholder), a short intro about her success as a mortgage agent, a strong tagline (e.g., “Turning Dreams into Homes”), and a CTA button (“Book a Free Consultation”).
+2. **About Me** – A detailed professional bio mentioning her role at LendCity, Level One Mortgage Agent certification, success in closing multiple deals, and passion for helping families and individuals.
+3. **Services** – Outline services like: First-time home buyer mortgages, refinancing, investment property mortgages, and credit solutions.
+4. **Client Testimonials** – Include 2–3 placeholder testimonials with realistic names. This section should look elegant and trustworthy.
+5. **Contact** – A form with name, email, phone, and message. Also show her email and a Google Map of LendCity’s office in Windsor.
+
+🎨 Design Guidelines:
+- Use a clean and elegant mortgage/business theme with blues, greys, and whites (reflecting trust and professionalism).
+- Use modern typography and iconography.
+- Make sure it's fully responsive for mobile and tablet users.
+- Add hover animations and slight scroll animations using Framer Motion.
+
+📦 Extra Features:
+- Include a sticky navbar with smooth scroll links to each section.
+- Include a floating "Book Consultation" button (bottom right) that opens the contact form.
+- Include SEO meta tags with keywords like “Windsor Mortgage Agent,” “LendCity Mortgages,” “Refinance in Windsor,” etc.
+- Integrate Google Fonts (like 'Inter' or 'Open Sans') for a polished look.
+
+Generate clean, production-ready code in one project folder. Use best practices, and write modular, readable components.
+
