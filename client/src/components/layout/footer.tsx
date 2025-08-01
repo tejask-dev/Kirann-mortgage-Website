@@ -52,7 +52,7 @@ export default function Footer() {
   ];
 
   return (
-    <footer className="bg-[hsl(var(--dark-grey),0.98)] md:bg-[#202c3b] text-white py-14">
+    <footer className="bg-[#202c3b] text-white py-14">
       <div className="max-w-7xl mx-auto px-6">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10">
           <motion.div
